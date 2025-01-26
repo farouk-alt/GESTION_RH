@@ -8,6 +8,7 @@ package com.mycompany.rhmanagement.models;
  *
  * @author farou
  */
+// utiliser cette classe pour definir l'interface de chaque role et pour reupere les id si necessaire
 public class User {
     private int id;
     private String username;
